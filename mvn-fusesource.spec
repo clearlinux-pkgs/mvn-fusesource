@@ -4,7 +4,7 @@
 #
 Name     : mvn-fusesource
 Version  : 1.17.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/fusesource/jansi/archive/jansi-project-1.17.1.tar.gz
 Source0  : https://github.com/fusesource/jansi/archive/jansi-project-1.17.1.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/fusesource/jansi/jansi-project/1.12/jansi-project-1.12.pom
